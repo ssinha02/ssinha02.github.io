@@ -3,17 +3,20 @@ body {
 }
 
 h1{
-	font-size: 28px;
+	font-size: 40px;
 	font-family: Arial;
 	color: blue;
 	border-style: groove;
 	border-color: blue;
-	background-color: #33CCFF;
 	text-align: center;
 }
 
+img {
+	display: inline-block;
+}
 .links {
-	font-size: 22px;
+	display: inline-block;
+	font-size: 28px;
 	font-family: Arial;
 	color: blue;
 	border-style: groove;
@@ -23,31 +26,26 @@ h1{
 div#title {
 	font-size: 28px;
 	font-family: Arial;
-	background-color: #33CCFF;
 }
 
 h2 {
 	font-size: 22px;
 	font-family: Arial;
-	background-color: #33CCFF;
 }
 
 p {
 	font-size: 14px;
 	font-family: Arial;
-	background-color: #33CCFF;
 }
 
 ul {
 	font-size: 14px;
 	font-family: Arial;
-	background-color: #33CCFF;
 }
 
 .Bio {
-	font-size: 14px;
+	font-size: 22px;
 	font-family: Arial;
-	background-color: #33CCFF;
 	margin-left: 25%;
 	margin-right: 25%;
 }
