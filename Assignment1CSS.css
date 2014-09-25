@@ -1,3 +1,7 @@
+body {
+	background-color: #33CCFF;
+}
+
 h1{
 	font-size: 28px;
 	font-family: Arial;
@@ -5,11 +9,7 @@ h1{
 	border-style: groove;
 	border-color: blue;
 	background-color: #33CCFF;
-}
-
-img {
-	width: 50%
-	height: 50%;
+	text-align: center;
 }
 
 .links {
