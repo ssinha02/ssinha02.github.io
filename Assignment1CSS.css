@@ -9,6 +9,8 @@ h1{
 	border-style: groove;
 	border-color: blue;
 	text-align: center;
+	margin-left: 25%;
+	margin-right: 25%;
 }
 
 img {
