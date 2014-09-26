@@ -12,15 +12,24 @@ h1{
 }
 
 img {
-	display: inline-block;
+	float: left;
+	margin-left: 25%; 
+	margin-top: 5%;
 }
+
 .links {
-	display: inline-block;
-	font-size: 28px;
+	float: right;
+	margin-right: 25%;
+	margin-top: 5%;
+	width: 250px;
+	height: 372px;
+	line-height: 175px;
+	font-size: 36px;
 	font-family: Arial;
 	color: blue;
 	border-style: groove;
 	border-color: blue;
+	text-align: center;
 }
 
 div#title {
